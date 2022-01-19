@@ -4,8 +4,6 @@
 #include <bitset>
 typedef unsigned char ubyte;
 
-//unsigned char* map_1 = new ubyte[100];
-//unsigned char* map_2;
 
 
 size_t const map_width = 16;
